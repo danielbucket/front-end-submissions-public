@@ -41,8 +41,8 @@ Add a label of the homework with a link to the gist/repo/..etc for each homework
 
 ### Daniel Ludwick
 
-* [Express Tutorial]()
-* [Promises Practice Exercises]()
+* [Express Tutorial](https://gist.github.com/danielbucket/2fad7697d677b8156d3396dfebab3f6e)
+* [Promises Practice Exercises](https://gist.github.com/danielbucket/2ba711403848f4440bca55a1ae01a96f)
 * [CircleCI & Git Hooks]()
 * [JWT Tutorial]()
 * [Sockets Tutorial]()
