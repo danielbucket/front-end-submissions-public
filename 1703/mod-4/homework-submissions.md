@@ -45,7 +45,7 @@ Add a label of the homework with a link to the gist/repo/..etc for each homework
 * [Promises Practice Exercises](https://gist.github.com/danielbucket/2ba711403848f4440bca55a1ae01a96f)
 * [CircleCI & Git Hooks]()
 * [JWT Tutorial]()
-* [Sockets Tutorial]()
+* [Sockets Tutorial](https://github.com/danielbucket/socketHomework)
 * [Pattern Party GitHub Repo]()
 * [Pattern Party GitHub Pages Site]()
 
